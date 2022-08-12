@@ -1,0 +1,25 @@
+#canvas1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    height: 300px;
+    border: solid 1px black;
+}
+
+.controls {
+    position: absolute;
+    z-index: 10;
+    top: 100px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.controls, select, option {
+    font-size: 25px;
+}
+
+#player {
+    display: none;
+}
