@@ -20,6 +20,6 @@
     font-size: 25px;
 }
 
-#player, #layer1, #layer2, #layer3, #layer4, #layer5, #enemy_fly, #enemy_plant, #enemy_spider-big, #fire {
+#player, #layer1, #layer2, #layer3, #layer4, #layer5, #enemy_fly, #enemy_plant, #enemy_spider-big, #fire, #collisionAnimation {
     display: none;
 }
