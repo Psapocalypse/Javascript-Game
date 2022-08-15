@@ -11,8 +11,9 @@ window.addEventListener("load", () => {
     // const CANVAS_WIDTH = canvas.width = 600;
     // const CANVAS_HEIGHT = canvas.height = 600;
 
-    canvas.width = 500;
+    canvas.width = 900;
     canvas.height = 500;
+
 
     class Game {
         constructor(width, height) {
